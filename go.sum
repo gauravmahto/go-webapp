@@ -1,0 +1,6 @@
+github.com/gauravmahto/go-start v0.0.0-20190601075014-0fc2dbcb6bf6 h1:hzKSJZvQjW99GangEL5UCi4YlPGokigMP9NNf1lWg5Y=
+github.com/gauravmahto/go-start v0.0.0-20190601075014-0fc2dbcb6bf6/go.mod h1:PbB8k8olg1t7k4xaeqrszifQh15m93GuaUFdZ26cdbA=
+github.com/gauravmahto/go-webserver v0.0.0-20190602092424-2a240647a0dd h1:xlwih5ztsy7tv3kvqC/xI6J8NE9d7kKxJZ91nmM62ww=
+github.com/gauravmahto/go-webserver v0.0.0-20190602092424-2a240647a0dd/go.mod h1:OnTa5O1Wt0QFVvZ2xDu/XUl/MjfFo/GzTG092wsyrU4=
+github.com/gauravmahto/go-webserver v0.0.0-20190602125538-af2142269d98 h1:5VugwRmyYzOZp3zqbOyF2ZUyqlvQRZ4msDrPohcCevU=
+github.com/gauravmahto/go-webserver v0.0.0-20190602125538-af2142269d98/go.mod h1:r6zMQGtCnHFjU23cDtGqvda2C19cqp4qeKcqY/GHIYo=
